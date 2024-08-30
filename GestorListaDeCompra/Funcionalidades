@@ -1,8 +1,3 @@
-Adicionar Novo Item à Lista de Compras
-Descrição:Permite ao usuário adicionar um novo item à lista de compras.
-Campos Necessários:
-
-Validação:Todos os campos são obrigatórios.
 
 Listar Itens da Lista de Compras
 Descrição:Exibe todos os itens adicionados pelo usuário na lista de compras.

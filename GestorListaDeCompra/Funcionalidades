@@ -1,10 +1,4 @@
 
-Listar Itens da Lista de Compras
-Descrição:Exibe todos os itens adicionados pelo usuário na lista de compras.
-Opções de Visualização:
-Filtros:
-Filtrar por categoria.
-Filtrar por status (comprado/não comprado).
 
 Editar Item
 Descrição:Permite ao usuário atualizar as informações de um item existente na lista de compras.

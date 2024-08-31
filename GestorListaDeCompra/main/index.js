@@ -1,5 +1,6 @@
 import { adicionarItem} from "../functions/1-adicionarItem"
 import { exibirLista } from "../functions/2-exibirLista"
+import { editarItem } from "../functions/3-editarItem"
 
 let menu = ('1 - Adicionar item \n2 - Exibir lista \n3 - Editar item \n4 - Remover item \n5 - Marcar como comprado ou não comprado \n6 - Resumo da lista de itens \n7 - Fechar programa')
 
@@ -34,7 +35,7 @@ while(a){
             exibirLista(listaItens, itensComprados)
             break
         case 3:
-            ///
+            editarItem(listaItens)
             break
         case 4:
             ///

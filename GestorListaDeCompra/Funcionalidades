@@ -1,6 +1,3 @@
-Remover Item
-Descrição:Permite ao usuário excluir um item da lista de compras.
-Confirmação:O sistema deve pedir confirmação antes de remover o item.
 
 Marcar Item como Comprado ou Não Comprado
 Descrição:Permite ao usuário alterar o status de um item (comprado ou não comprado).

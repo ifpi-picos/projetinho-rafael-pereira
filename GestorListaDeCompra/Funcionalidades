@@ -1,13 +1,3 @@
-
-
-Editar Item
-Descrição:Permite ao usuário atualizar as informações de um item existente na lista de compras.
-Campos Editáveis:
-Nome do Item.
-Quantidade.
-Categoria.
-Validação:Todos os campos editados devem seguir as mesmas regras de validação da criação de itens.
-
 Remover Item
 Descrição:Permite ao usuário excluir um item da lista de compras.
 Confirmação:O sistema deve pedir confirmação antes de remover o item.

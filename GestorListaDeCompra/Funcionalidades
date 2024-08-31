@@ -2,7 +2,6 @@
 Listar Itens da Lista de Compras
 Descrição:Exibe todos os itens adicionados pelo usuário na lista de compras.
 Opções de Visualização:
-Exibir itens em ordem alfabética, por categoria, ou por quantidade.
 Filtros:
 Filtrar por categoria.
 Filtrar por status (comprado/não comprado).

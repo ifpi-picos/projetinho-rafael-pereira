@@ -3,7 +3,23 @@ import { exibirLista } from "../functions/2-exibirLista"
 
 let menu = ('1 - Adicionar item \n2 - Exibir lista \n3 - Editar item \n4 - Remover item \n5 - Marcar como comprado ou não comprado \n6 - Resumo da lista de itens \n7 - Fechar programa')
 
-let listaItens = []
+let listaItens = [
+    {
+        nome: 'arroz',
+        quantidade: 1,
+        categoria: 'alimento'
+    },
+    {
+        nome: 'sabão',
+        quantidade: 1,
+        categoria: 'higiene'
+    },
+    {
+        nome: 'martelo',
+        quantidade: 2,
+        categoria: 'ferramenta'
+    }
+]
 let itensComprados = []
 
 let a = true

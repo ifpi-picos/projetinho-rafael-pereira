@@ -3,6 +3,7 @@ import { exibirLista } from "../functions/2-exibirLista"
 import { editarItem } from "../functions/3-editarItem"
 import { removeItem } from "../functions/4-removeIten"
 import { marcaItem } from "../functions/5-marcarItem"
+import { resumeItens } from "../functions/6-resumeItens"
 
 let menu = ('1 - Adicionar item \n2 - Exibir lista \n3 - Editar item \n4 - Remover item \n5 - Marcar como comprado ou não comprado \n6 - Resumo da lista de itens \n7 - Fechar programa')
 
@@ -46,7 +47,7 @@ while(a){
             marcaItem(listaItens, itensComprados)
             break
         case 6:
-            ///
+            resumeItens(listaItens, itensComprados)
             break
         case 7:
             a = false
